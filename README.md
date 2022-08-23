@@ -6,4 +6,4 @@ I'm an aspiring front end developer from Tunisia. I'm currently learning the bas
 ---
 
 - 🔨 I’m currently working on:
-  - My portflio
+  - My portfolio
